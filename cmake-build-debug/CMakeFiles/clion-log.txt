@@ -1,0 +1,4 @@
+/home/bp/Downloads/clion/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/bp/CLionProjects/capstone
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/bp/CLionProjects/capstone/cmake-build-debug
